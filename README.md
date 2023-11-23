@@ -18,7 +18,6 @@ Eu [Kelly Oliveira](http://instagram.com/kelly_amenduuim), sou uma dev que a qua
 
  <p>
 
-
   Reaproveitando o projeto da semana passada e juntando com que vocês aprenderam na aula de responsividade: 
   <br />
    1) Apliquem o media query no projeto de vocês  <br />
