@@ -14,9 +14,9 @@ Eu [Kelly Oliveira](http://instagram.com/kelly_amenduuim), sou uma dev que a qua
 
 -  [GitHub](https://github.com/Kelly-Oliveira)
 
-## Projeto da Semana - 02
+## Projeto da Semana - 03
 
- <p align="center">
+ <p>
 
   <br />
   Reaproveitando o projeto da semana passada e juntando com que vocês aprenderam na aula de responsividade: 
