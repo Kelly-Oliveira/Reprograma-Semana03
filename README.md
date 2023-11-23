@@ -18,14 +18,14 @@ Eu [Kelly Oliveira](http://instagram.com/kelly_amenduuim), sou uma dev que a qua
 
  <p>
 
-  <br />
+
   Reaproveitando o projeto da semana passada e juntando com que vocês aprenderam na aula de responsividade: 
   <br />
    1) Apliquem o media query no projeto de vocês  <br />
    2) Apliquem as unidades de medida (%,em,rem) nas partes que precisam ser colocadas <br />
    3) ajustem as imagens que vocês colocaram usando o código apresentado na aula.  <br />
    
-  Deploy do projeto: https://kelly-oliveira.github.io/Reprograma-Semana02/
+  Deploy do projeto: https://kelly-oliveira.github.io/Reprograma-Semana03/
 </p>
 
 
