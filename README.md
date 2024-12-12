@@ -14,9 +14,9 @@
 
 ###  Tecnologias que utilizei
   
-  | `HTML5` | Linguagem de Marcação de Hipertexto |
+  | `HTML` | Hypertext Markup Language |
 
-  | `CSS` | Linguagem de estilo |
+  | `CSS` | Cascading Style Sheets |
  
 <hr />
 
